@@ -1,0 +1,11 @@
+*terraform.tfvars
+*.terraform
+*tfstate*
+*.pub
+flask-key
+*.tfstate
+*.tfstate.backup
+.terraform/
+terraform.tfvars
+crash.log
+*.log
